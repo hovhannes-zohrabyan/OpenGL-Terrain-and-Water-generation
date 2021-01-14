@@ -1,0 +1,12 @@
+﻿  Water.cpp
+C:\Users\johnz\Desktop\Computer Graphics\Computer Graphics Final Project\Shader.h(56,40): warning C4101: 'e': unreferenced local variable
+C:\Users\johnz\Desktop\Computer Graphics\Computer Graphics Final Project\Water.cpp(181,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\johnz\Desktop\Computer Graphics\Computer Graphics Final Project\Water.cpp(359,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\johnz\Desktop\Computer Graphics\Computer Graphics Final Project\Water.cpp(571,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\johnz\Desktop\Computer Graphics\Computer Graphics Final Project\Water.cpp(572,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\johnz\Desktop\Computer Graphics\Computer Graphics Final Project\Water.cpp(576,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\johnz\Desktop\Computer Graphics\Computer Graphics Final Project\Water.cpp(577,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\johnz\Desktop\Computer Graphics\Computer Graphics Final Project\Water.cpp(579,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\johnz\Desktop\Computer Graphics\Computer Graphics Final Project\Water.cpp(580,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\johnz\Desktop\Computer Graphics\Computer Graphics Final Project\Water.cpp(590,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Computer Graphics Final Project.vcxproj -> C:\Users\johnz\Desktop\Computer Graphics\Computer Graphics Final Project\Debug\Computer Graphics Final Project.exe
